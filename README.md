@@ -6,8 +6,7 @@
 - 
 
 ## Integrantes 
-- Iopatich, Ignacio   Integrante 1
+- Opatich, Ignacio   Integrante 1
 - Francisco Frate, Delfina  Integrante 2
 - Cruz, Thomas Integrante 3
-- Integrante 4
-- Integrante 5
+- Perazzo, Lucca Integrante 4
