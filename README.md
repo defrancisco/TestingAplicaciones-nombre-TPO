@@ -3,7 +3,7 @@
 
 
 ## Nombre de Equipo
-- 
+- 'Testers UADE'
 
 ## Integrantes 
 - Opatich, Ignacio   Integrante 1
